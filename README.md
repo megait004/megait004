@@ -1,9 +1,5 @@
 # 👋 Hello, I'm @megait004
 
-<p align="center">
-  <img src="https://media.tenor.com/7zWbGOBD3Z4AAAAC/anime-wave.gif" alt="Welcome gif" width="500"/>
-</p>
-
 ## 👀 About Me
 - 🌟 **I'm a beginner in the world of programming.**
 - 🌱 **Always eager to explore and learn new things in the tech world.**
@@ -30,7 +26,7 @@
 - 🎸 **Besides programming, I enjoy playing chess.**
 
 <p align="center">
-  <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
+  <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="100000"/>
 </p>
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
