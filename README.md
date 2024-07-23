@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="https://tenor.com/view/anime-cute-training-karate-punch-gif-17946045887149426853" alt="Coding gif" width="500"/>
+  <div class="tenor-gif-embed" data-postid="17946045887149426853" data-share-method="host" data-aspect-ratio="0.7751" data-width="100%"><a href="https://tenor.com/view/anime-cute-training-karate-punch-gif-17946045887149426853">Anime Cute GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
