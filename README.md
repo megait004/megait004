@@ -29,8 +29,6 @@
 ## ⚡ Fun Fact
 - 🎸 **Besides programming, I enjoy playing chess.**
 
----
-
 <p align="center">
   <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
