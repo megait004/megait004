@@ -1,7 +1,7 @@
 # 👋 Hello, I'm @megait004
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcdhiQKArjJPpLq/giphy.gif" alt="Welcome gif" width="500"/>
+  <img src="https://media.tenor.com/7zWbGOBD3Z4AAAAC/anime-wave.gif" alt="Welcome gif" width="500"/>
 </p>
 
 ## 👀 About Me
@@ -21,7 +21,7 @@
 - 🌐 **Open to contributing to open-source projects and eager to learn from the community.**
 
 ## 📫 How to Reach Me
-- 🐦 **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
+- 🐦 **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 ## 😄 Personality
 - **Personality:** Cheerful, friendly, and enthusiastic in both work and life.
@@ -32,8 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/anime-cute-training-karate-punch-gif-17946045887149426853" alt="Coding gif" width="500"/>
-  <div class="tenor-gif-embed" data-postid="17946045887149426853" data-share-method="host" data-aspect-ratio="0.7751" data-width="100%"><a href="https://tenor.com/view/anime-cute-training-karate-punch-gif-17946045887149426853">Anime Cute GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
