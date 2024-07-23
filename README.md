@@ -1,5 +1,7 @@
 # 👋 Hello, I'm @megait004
-
+<p align="center">
+  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code.gif" alt="Welcome gif" width="500"/>
+</p>
 ## 👀 About Me
 - 🌟 **I'm a beginner in the world of programming.**
 - 🌱 **Always eager to explore and learn new things in the tech world.**
