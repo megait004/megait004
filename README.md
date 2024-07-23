@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukhKgwcozm1DG/giphy.gif" alt="Coding gif" width="500"/>
+  <img src="https://tenor.com/view/anime-cute-training-karate-punch-gif-17946045887149426853" alt="Coding gif" width="500"/>
 </p>
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
