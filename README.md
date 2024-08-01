@@ -41,6 +41,6 @@
 ## 📈 GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=megait004)
-[![GitHub stars]](https://github.com/megait004/megait004/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/megait004/megait004?style=social)](https://github.com/megait004/megait004/stargazers)
 
 ![megait004's GitHub stats](https://github-readme-stats.vercel.app/api?username=megait004&show_icons=true&theme=radical)
