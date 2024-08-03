@@ -21,7 +21,7 @@
 
 ## 📫 How to Reach Me
 - ![image](https://github.com/user-attachments/assets/ee17468b-0a71-4c83-bd1f-b2634765c4bf)
-**Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
+**acebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
 
 ## 😄 Personality
 - **Personality:** Cheerful, friendly, and enthusiastic in both work and life.
