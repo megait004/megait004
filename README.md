@@ -20,7 +20,7 @@
 - 🌐 **Open to contributing to open-source projects and eager to learn from the community.**
 
 ## 📫 How to Reach Me
-- 🐦 **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
+- <i class="fa-brands fa-facebook"></i> **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
 
 ## 😄 Personality
 - **Personality:** Cheerful, friendly, and enthusiastic in both work and life.
