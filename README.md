@@ -35,10 +35,6 @@
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Thank you gif" width="500"/>
-</p>
-
 ## 📈 GitHub Stats
 
 [visitors](https://visitor-badge.glitch.me/badge?page_id=megait004&left_color=green&right_color=red)
