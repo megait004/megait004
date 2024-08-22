@@ -28,11 +28,9 @@
 
 ## ⚡ Fun Fact
 - 🎸 **Besides programming, I enjoy playing chess.**
-
 <p align="center">
   <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
-
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
 ## 📈 GitHub Stats
 [visitors](https://visitor-badge.glitch.me/badge?page_id=megait004&left_color=green&right_color=red)
