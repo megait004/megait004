@@ -34,10 +34,7 @@
 </p>
 
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
-
 ## 📈 GitHub Stats
-
 [visitors](https://visitor-badge.glitch.me/badge?page_id=megait004&left_color=green&right_color=red)
 [![GitHub stars](https://img.shields.io/github/stars/megait004/megait004?style=social)](https://github.com/megait004/megait004/stargazers)
-
 ![megait004's GitHub stats](https://github-readme-stats.vercel.app/api?username=megait004&show_icons=true&theme=radical)
