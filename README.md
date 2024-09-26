@@ -10,15 +10,6 @@
 ## 💞️ Collaboration
 - 🤝 **Looking for opportunities to collaborate on small projects to gain more experience.**
 - 🌐 **Open to contributing to open-source projects and eager to learn from the community.**
-
-## 📫 How to Reach Me
-- ![image](https://github.com/user-attachments/assets/ee17468b-0a71-4c83-bd1f-b2634765c4bf)
-**acebook:** [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giapzech)
-
-## 😄 Personality
-- **Personality:** Cheerful, friendly, and enthusiastic in both work and life.
-## ⚡ Fun Fact
-- 🎸 **Besides programming, I enjoy playing chess.**
 <p align="center">
   <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
