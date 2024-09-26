@@ -7,14 +7,6 @@
 - 🌟 **I'm a beginner in the world of programming.**
 - 🌱 **Always eager to explore and learn new things in the tech world.**
 - 😄 **Cheerful, friendly, and always ready to share knowledge with everyone.**
-
-## 🌱 Currently Learning
-- 🚀 Currently, I'm learning:
-  - ![HTML & CSS](https://img.shields.io/badge/HTML%20&%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-- 📚 **Working on small projects to solidify my knowledge and skills.**
-
 ## 💞️ Collaboration
 - 🤝 **Looking for opportunities to collaborate on small projects to gain more experience.**
 - 🌐 **Open to contributing to open-source projects and eager to learn from the community.**
