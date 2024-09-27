@@ -1,15 +1,8 @@
 # 👋 Hello, I'm @megait004
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-girl.gif" alt="Welcome gif" width="500"/>
-</p>
-
 ## 👀 About Me
 - 🌟 **I'm a beginner in the world of programming.**
 - 🌱 **Always eager to explore and learn new things in the tech world.**
 - 😄 **Cheerful, friendly, and always ready to share knowledge with everyone.**
-## 💞️ Collaboration
-- 🤝 **Looking for opportunities to collaborate on small projects to gain more experience.**
-- 🌐 **Open to contributing to open-source projects and eager to learn from the community.**
 <p align="center">
   <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
