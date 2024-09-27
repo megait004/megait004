@@ -7,7 +7,6 @@
   <img src="https://media.tenor.com/3hJBSbmF4YIAAAAC/cute-anime-study.gif" alt="Coding gif" width="500"/>
 </p>
 ✨ **This is my special place on GitHub, where I share my programming journey and projects. Feel free to explore and connect with me!** ✨
-
 ## 📈 GitHub Stats
 [visitors](https://visitor-badge.glitch.me/badge?page_id=megait004&left_color=green&right_color=red)
 [![GitHub stars](https://img.shields.io/github/stars/megait004/megait004?style=social)](https://github.com/megait004/megait004/stargazers)
